@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://b16g8map2lmhq"]
+
+[ext_resource type="Script" path="res://assets/scripts/player.gd" id="1_vt8bu"]
+
+[node name="Player" type="Node3D"]
+script = ExtResource("1_vt8bu")
+
+[node name="XROrigin3D" type="XROrigin3D" parent="."]
+
+[node name="XRCamera3D" type="XRCamera3D" parent="XROrigin3D"]

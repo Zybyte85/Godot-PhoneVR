@@ -1,0 +1,4 @@
+res://assets/scenes/player.tscn
+res://assets/scenes/world.tscn
+res://assets/scenes/hud.tscn
+res://assets/scripts/player.gd

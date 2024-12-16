@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1734310802
+cardboard-logo.png::CompressedTexture2D::3061687822130664737::1734310918::1734310926::1::::<><>::
+::res://assets/::1734310535
+::res://assets/scenes/::1734310803
+player.tscn::PackedScene::4275750192811517078::1734310803::0::1::::<><>::res://assets/scripts/player.gd
+world.tscn::PackedScene::593173412822417654::1734310803::0::1::::<><>::res://assets/scenes/hud.tscn<>uid://b16g8map2lmhq::::res://assets/scenes/player.tscn
+::res://assets/scripts/::1734310803
+player.gd::GDScript::-1::1734310803::0::1::::<>Node3D<>::
